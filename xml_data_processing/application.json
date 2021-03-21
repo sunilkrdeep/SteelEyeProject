@@ -1,0 +1,12 @@
+{
+  "logdir"     :"C:\\python-projects\\SteelEye\\xmldatafiles\\logs\\",
+  "logfile"    : "xmldownloadfilesprocess.log",
+  "url"        : "https://registers.esma.europa.eu/solr/esma_registers_firds_files/select?q=*&fq=publication_date:%5B2021-01-17T00:00:00Z+TO+2021-01-19T23:59:59Z%5D&wt=xml&indent=true&start=0&rows=100",
+  "zippath"    : "C:\\python-projects\\SteelEye\\xmldatafiles\\zip\\",
+  "xmlfile"    : "C:\\python-projects\\SteelEye\\xmldatafiles\\esma_registers.xml",
+  "dltinspath" : "C:\\python-projects\\SteelEye\\xmldatafiles\\dltins",
+  "csvDatafile" : "C:\\python-projects\\SteelEye\\xmldatafiles\\data\\csvdatafile.csv",
+  "dltinsDir"  : "C:\\python-projects\\SteelEye\\xmldatafiles\\dltins\\"
+
+}
+
